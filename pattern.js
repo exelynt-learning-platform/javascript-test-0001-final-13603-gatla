@@ -1,6 +1,6 @@
 let n = 5;
 
-// Upper part
+
 for (let i = 1; i <= n; i++) {
 
     let row = "";
